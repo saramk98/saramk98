@@ -4,7 +4,7 @@
 
 ## Aspiring Full Stack Developer | Full Stack Enthusiast | Cutting-Edge Technology Explorer
 
-Welcome to my GitHub profile! I'm a passionate full stack developer with a keen interest in Node, Angular or React and Postgres. I'm constantly exploring cutting-edge technologies to create efficient solutions and deliver high-quality code.
+Welcome to my GitHub profile! I'm a passionate full stack developer with a keen interest in Node, Angular,React and React Native. I'm constantly exploring cutting-edge technologies to create efficient solutions and deliver high-quality code.
 
 ## Technologies & Tools 🛠️
 
@@ -182,37 +182,33 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
   </a>
 </p>
 
-- **Languages:** Node.js, React.js, PHP , C/C++, Python, C# Java, TypeScript, JavaScript
-- **Backend:** Node.js, Express, Websockets, Laravel
-- **Frontend:** Angular.js,React.js,Ionic, HTML, CSS, JavaScript, Bootstrap
-- **Databases:** MySQL, PostgreSQL, MongoDB, Oracle
-- **Other Skills:** AWS, Git, RESTful APIs, Agile Methodologies, Docker, Figma, Linux
+- **Languages:** Node.js, React.js,React Native, PHP , C/C++, Python, C# Java, TypeScript, JavaScript
+- **Frontend:** Angular.js,React.js,React Native,Ionic, HTML, CSS, JavaScript, Bootstrap
+- **Databases:** MySQL, MongoDB, Oracle
+- **Other Skills:** AWS, Git, RESTful APIs, Agile Methodologies, Docker, Figma,Adobe XD Linux
 
 ## Professional Experience 💼
 
 <div style="display: flex; align-items: center; justify-content: flex-start;">
   <a href="https://techscape.pk" target="_blank">
-    <img src="https://shop.techscape.pk/wp-content/uploads/2023/03/TechScape-Color-logo.png" alt="Techscape" height="80" />
+    <img src="https://media.licdn.com/dms/image/D560BAQGCq7dSWoI0Bg/company-logo_200_200/0/1688765609196?e=2147483647&v=beta&t=PmZlNP-ogD8rqjkWXj9fW5j1M0DX8jJ3dY0cKyq7YLw" alt="Techscape" height="80" />
   </a>
 
 </div>
 I have gained valuable experience working on various projects, and here are a few highlights:
 
-- Developed robust and scalable backend systems using Node and Laravel, leveraging the power of websockets.
+- Developed robust and scalable app using Node and React Native.
 - Collaborated with cross-functional teams to build dynamic web applications using Node.js and React.js.
-- Proficient in coding with C/C++, Python, Java, TypeScript, and JavaScript, bringing versatility to my development skills.
-- Implemented efficient algorithms and data structures to optimize performance and enhance user experiences.
-- Specialize in building interactive bots for platforms like Discord and Slack, integrating them with various APIs.
-- Experienced in creating real-time applications using websockets for seamless and instant communication.
+- Implemented efficient wireframes to optimize performance and enhance user experiences.
 
 
 ## Goals 🎯
 
 My journey as a developer is constantly evolving, and here are some of my goals:
 
-- Master Node JS and its ecosystem, contributing to open-source projects and creating innovative solutions.
+- Master Javascript frameworks and it's ecosystem, contributing to open-source projects and creating innovative solutions.
 - Stay updated with the latest trends and advancements in the tech industry, exploring new frameworks and libraries.
-- Sharpen my skills in designing and building scalable architectures for web applications, especially utilizing the power of websockets.
+- Sharpen my skills in designing and building scalable architectures for web applications.
 - Collaborate with other passionate developers to create impactful and meaningful projects.
 
 ## Let's Connect 🤝
@@ -232,7 +228,7 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="Sheryar"
+        alt="Saram"
         height="45"
         width="60"
     /></a>
