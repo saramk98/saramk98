@@ -210,7 +210,7 @@ I have gained valuable experience working on various projects, and here are a fe
 
 My journey as a developer is constantly evolving, and here are some of my goals:
 
-- Master Node JS and its ecosystem, contributing to open source projects and creating innovative solutions.
+- Master Node JS and its ecosystem, contributing to open-source projects and creating innovative solutions.
 - Stay updated with the latest trends and advancements in the tech industry, exploring new frameworks and libraries.
 - Sharpen my skills in designing and building scalable architectures for web applications, especially utilizing the power of websockets.
 - Collaborate with other passionate developers to create impactful and meaningful projects.
@@ -220,15 +220,15 @@ My journey as a developer is constantly evolving, and here are some of my goals:
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me through the following channels:
 
 <p align="left">
-    <a href="https://wa.me/923325325044" target="blank"
+    <a href="https://wa.me/923235321523" target="blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
-        alt="Sheryar"
+        alt="Saram"
         height="45"
         width="60"
     /></a>
-    <a href="https://www.linkedin.com/in/sheryar-ali-201999187/" target="blank"
+    <a href="https://www.linkedin.com/in/saram-atif-39500617b/" target="blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
