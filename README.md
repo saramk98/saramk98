@@ -240,6 +240,6 @@ Thank you for visiting my profile. Let's create something awesome together!! ðŸš
 
 <p align="center">
 
-  [![streak picture](https://github-readme-streak-stats.herokuapp.com/?user=saramk98&)] 
-  [![github contrib picture](https://github-readme-stats.vercel.app/api?username=saramk98&hide=contribs,prs)]
+  ![streak picture](https://github-readme-streak-stats.herokuapp.com/?user=saramk98&)
+  ![github contrib picture](https://github-readme-stats.vercel.app/api?username=saramk98&hide=contribs,prs)
  </p>
