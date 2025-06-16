@@ -238,8 +238,7 @@ Thank you for visiting my profile. Let's create something awesome together!! ðŸš
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saramk98&label=Profile%20views&color=0e75b6&style=flat" alt="saramk98" /> </p>
 
-<p align="center">
-
-  ![streak picture](https://github-readme-streak-stats.herokuapp.com/?user=saramk98&)
-  ![github contrib picture](https://github-readme-stats.vercel.app/api?username=saramk98&hide=contribs,prs)
- </p>
+<div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saramk98&" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saramk98&hide=contribs,prs" alt="GitHub Stats"/>
+</div>
