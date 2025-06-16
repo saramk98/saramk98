@@ -237,3 +237,9 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
 Thank you for visiting my profile. Let's create something awesome together!! 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saramk98&label=Profile%20views&color=0e75b6&style=flat" alt="saramk98" /> </p>
+
+<p align="center">
+
+  [![streak picture](https://github-readme-streak-stats.herokuapp.com/?user=saramk98&)] 
+  [![github contrib picture](https://github-readme-stats.vercel.app/api?username=saramk98&hide=contribs,prs)]
+ </p>
