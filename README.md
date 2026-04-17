@@ -190,8 +190,8 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
 ## Professional Experience 💼
 
 <div style="display: flex; align-items: center; justify-content: flex-start;">
-  <a href="https://techscape.pk" target="_blank">
-    <img src="https://media.licdn.com/dms/image/D560BAQGCq7dSWoI0Bg/company-logo_200_200/0/1688765609196?e=2147483647&v=beta&t=PmZlNP-ogD8rqjkWXj9fW5j1M0DX8jJ3dY0cKyq7YLw" alt="Techscape" height="80" />
+  <a href="https://proailab.com/" target="_blank">
+    <img src="https://proailab.com/wp-content/uploads/2025/11/Artboard-%E2%80%93-14.png" alt="ProAILab" height="80" />
   </a>
 
 </div>
