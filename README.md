@@ -3,13 +3,16 @@
 
 <h1 align="center">Hello 👋, I'm Saram Khan</h1>
 
-[![header animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=00C2FF&width=650&height=80&lines=Full+Stack+Developer+%7C+React+%26+Node.js;Building+scalable+apps+with+clean+UX)](https://github.com/saramk98)
+<p align="center">
+  <a href="https://github.com/saramk98">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=00C2FF&width=650&height=80&lines=Full+Stack+Developer+%7C+React+%26+Node.js;Building+scalable+apps+with+clean+UX" alt="header animation" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/saramk98"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/saram-atif-39500617b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://wa.me/923235321523"><img src="https://img.shields.io/badge/WhatsApp-%2300BB2D.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <img src="https://komarev.com/ghpvc/?username=saramk98&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
 ---
@@ -88,13 +91,14 @@ I'm an aspiring full stack developer focused on delivering elegant web and mobil
   <a href="https://www.linkedin.com/in/saram-atif-39500617b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://wa.me/923235321523" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="mailto:saram@example.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=saramk98&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
 > Ready to join a motivated team and build products that users love. Let's connect and make an impact! 🌐
 
 ---
 
-<p align="center">
+<p align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saramk98&" alt="GitHub Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api?username=saramk98&show_icons=true&theme=dark&count_private=true" alt="GitHub stats"/>
 </p>
