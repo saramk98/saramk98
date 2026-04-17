@@ -1,244 +1,100 @@
 ![Api giphy saramk98](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
+
 <h1 align="center">Hello 👋, I'm Saram Khan</h1>
 
-## Aspiring Full Stack Developer | Full Stack Enthusiast | Cutting-Edge Technology Explorer
+[![header animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=00C2FF&width=650&height=80&lines=Full+Stack+Developer+%7C+React+%26+Node.js;Building+scalable+apps+with+clean+UX)](https://github.com/saramk98)
 
-Welcome to my GitHub profile! I'm a passionate full stack developer with a keen interest in Node, Angular,React and React Native. I'm constantly exploring cutting-edge technologies to create efficient solutions and deliver high-quality code.
-
-## Technologies & Tools 🛠️
-
-<p align="left">
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="80"
-      height="80"
-    />
-  </a>
-  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="80"
-      height="80"
-    />
-  </a>
-  
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="vuejs"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="80"
-      height="80"
-    />
-  </a>
-
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="80"
-      height="80"
-    />
-  </a>
-
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="80"
-      height="80"
-    />
-  </a>
-
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="80"
-      height="80"
-    />
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="80"
-      height="80"
-    />
-  </a>
-
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="oracle"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="80"
-      height="80"
-    />
-  </a>
+<p align="center">
+  <a href="https://github.com/saramk98"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/saram-atif-39500617b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://wa.me/923235321523"><img src="https://img.shields.io/badge/WhatsApp-%2300BB2D.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <img src="https://komarev.com/ghpvc/?username=saramk98&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
-- **Languages:** Node.js, React.js,React Native, PHP , C/C++, Python, C# Java, TypeScript, JavaScript
-- **Frontend:** Angular.js,React.js,React Native,Ionic, HTML, CSS, JavaScript, Bootstrap
-- **Databases:** MySQL, MongoDB, Oracle
-- **Other Skills:** AWS, Git, RESTful APIs, Agile Methodologies, Docker, Figma,Adobe XD Linux
+---
 
-## Professional Experience 💼
+## 🌟 About
 
-<div style="display: flex; align-items: center; justify-content: flex-start;">
-  <a href="https://proailab.com/" target="_blank">
+I'm an aspiring full stack developer focused on delivering elegant web and mobile experiences. I build products using React, React Native, Angular, Node.js and modern backend services while keeping performance, usability, and team collaboration at the center.
+
+- Strong skills in front-end UI development, responsive design, and component-driven architecture
+- Experience building cross-platform mobile apps and RESTful APIs with Node.js
+- Passionate about clean code, rapid problem solving, and launching high-quality products
+
+---
+
+## 🛠️ Skills
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Native" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="48" height="48" />
+</p>
+
+### Core strengths
+
+- Frontend development with React, Angular, React Native, and Ionic
+- Backend architecture with Node.js, Express, REST APIs, and database design
+- Responsive UI, component-based systems, and pixel-perfect implementations
+- Version control, Agile workflows, Docker containers, and collaborative delivery
+
+---
+
+## 💼 Experience
+<a href="https://proailab.com/" target="_blank">
     <img src="https://proailab.com/wp-content/uploads/2025/11/Artboard-%E2%80%93-14.png" alt="ProAILab" height="80" />
   </a>
 
-</div>
-I have gained valuable experience working on various projects, and here are a few highlights:
+### ProAILab
 
-- Developed robust and scalable app using Node and React Native.
-- Collaborated with cross-functional teams to build dynamic web applications using Node.js and React.js.
-- Implemented efficient wireframes to optimize performance and enhance user experiences.
+- Developed scalable applications using Node.js and React Native for real-world business products
+- Worked in a collaborative team environment to ship features, optimize performance, and improve user experience
+- Designed clean UI flows and wireframes to enhance usability and product adoption
 
+### What I bring to your team
 
-## Goals 🎯
+- A desire to solve problems with high-quality, maintainable code
+- A results-focused approach with quick learning and strong communication
+- A mindset that values design, reliability, and continuous improvement
 
-My journey as a developer is constantly evolving, and here are some of my goals:
+---
 
-- Master Javascript frameworks and it's ecosystem, contributing to open-source projects and creating innovative solutions.
-- Stay updated with the latest trends and advancements in the tech industry, exploring new frameworks and libraries.
-- Sharpen my skills in designing and building scalable architectures for web applications.
-- Collaborate with other passionate developers to create impactful and meaningful projects.
+## 🚀 Career Goals
 
-## Let's Connect 🤝
+- Build impactful full stack products with modern JavaScript frameworks
+- Contribute to open-source projects and develop reusable engineering patterns
+- Deliver strong end-to-end solutions with production-ready architecture
+- Grow within a team that values innovation, reliability, and great user experiences
 
-I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me through the following channels:
+---
+
+## 📫 Contact
 
 <p align="left">
-    <a href="https://wa.me/923235321523" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
-        alt="Saram"
-        height="45"
-        width="60"
-    /></a>
-    <a href="https://www.linkedin.com/in/saram-atif-39500617b/" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="Saram"
-        height="45"
-        width="60"
-    /></a>
-  </p>
+  <a href="https://www.linkedin.com/in/saram-atif-39500617b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://wa.me/923235321523" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="mailto:saram@example.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-Thank you for visiting my profile. Let's create something awesome together!! 🚀
+> Ready to join a motivated team and build products that users love. Let's connect and make an impact! 🌐
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saramk98&label=Profile%20views&color=0e75b6&style=flat" alt="saramk98" /> </p>
+---
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saramk98&" alt="GitHub Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=saramk98&hide=contribs,prs" alt="GitHub Stats"/>
-</div>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saramk98&" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saramk98&show_icons=true&theme=dark&count_private=true" alt="GitHub stats"/>
+</p>
