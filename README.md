@@ -27,7 +27,7 @@ I'm an aspiring full stack developer focused on delivering elegant web and mobil
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technologies & Tools
 
 
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; table-layout: fixed;">
